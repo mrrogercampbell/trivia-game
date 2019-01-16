@@ -1,0 +1,25 @@
+{
+  "name": "trivia-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc1336/trivia-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rc1336/trivia-game/issues"
+  },
+  "homepage": "https://github.com/rc1336/trivia-game#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {
+    "pug": "^2.0.3"
+  }
+}
